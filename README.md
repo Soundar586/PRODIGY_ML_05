@@ -23,7 +23,7 @@ This project is a **Macihine Learning-based model** that can recognize food item
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/Soundar586/food-calorie-estimator.git
+[git clone https:https://github.com/Soundar586/PRODIGY_ML_05.git]
 cd food-calorie-estimator
 ```
 
