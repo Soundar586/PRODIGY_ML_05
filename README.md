@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## 📸 Example Prediction
 
-<img width="1116" height="725" alt="image" src="https://github.com/user-attachments/assets/cd244113-6863-4abe-8079-3455a1eda55d" />
+<img width="1097" height="753" alt="image" src="https://github.com/user-attachments/assets/ff90d536-2fa2-4770-9dee-d8a2ac96dc44" />
 
 
 **Input Image:**
@@ -97,7 +97,7 @@ Feel free to submit issues or pull requests to improve the project!
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** 
 
 ---
 
@@ -105,4 +105,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-**Soundira Ragavendiran** – [Your GitHub Profile](https://github.com/yourusername)
+**Soundira Ragavendiran** – [Your GitHub Profile](https://github.com/Soundar586)
